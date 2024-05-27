@@ -11,7 +11,7 @@ using namespace std;  // syntax error
 
 const int NUM_EXPERIMENTS = 4; // logic error
                               // they are 4 experiments
-							 // correction to change 3 to 4
+							  // correction to change 3 to 4
 
 const int NUM_READINGS = 3;
 
