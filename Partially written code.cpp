@@ -19,7 +19,7 @@ int main() {     // syntax error
                 // it should be main int instead
 			   // correction i change float main to main int()
 	int i,j;  // syntax error
-	          // correction it should be int instead because i and j are numbers
+	         // correction it should be int instead because i and j are numbers
 
 	double readingValue, total, average;
 	
